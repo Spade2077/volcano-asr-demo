@@ -1,0 +1,18 @@
+# Binaries
+volcano-asr-demo.exe
+*.exe
+
+# Go
+vendor/
+tmp_*/
+
+# Environment - contains secrets
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
